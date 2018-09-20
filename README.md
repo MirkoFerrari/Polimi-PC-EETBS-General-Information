@@ -29,7 +29,6 @@ In case you received an error during the installation procedure, I would suggest
 You can download sketchup from the following link :
 
 
-      TOP DEI TOP
-
+      TOP
  
  
